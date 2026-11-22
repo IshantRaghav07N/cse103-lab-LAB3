@@ -35,7 +35,7 @@ cse103-lab-LAB3/
 ## How to Run
 
 ```bash
-git clone https://github.com/IshantRaghav/cse103-lab-LAB3.git
+git clone https://github.com/IshantRaghav07N/cse103-lab-LAB3.git
 cd cse103-lab-LAB3
 python3 main.py
 ```
