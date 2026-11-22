@@ -1,0 +1,63 @@
+# Markdown Syntax Guide
+
+This document demonstrates the basic Markdown syntax used in GitHub documentation.
+
+## 1. Headings
+
+# Heading 1
+## Heading 2
+### Heading 3
+
+## 2. Text Formatting
+
+**Bold text**
+
+*Italic text*
+
+~~Strikethrough text~~
+
+## 3. Unordered List
+
+- Item A
+- Item B
+  - Nested Item B1
+
+## 4. Ordered List
+
+1. First step
+2. Second step
+
+## 5. Inline Code
+
+Use `print("Hello")` to display a message.
+
+## 6. Code Block
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("Ishant"))
+```
+
+## 7. Hyperlink
+
+[GitHub](https://github.com)
+
+## 8. Table
+
+| Column 1 | Column 2 | Column 3 |
+|----------|:--------:|----------:|
+| Left | Centre | Right |
+
+## 9. Blockquote
+
+> An important note or reference goes here.
+
+## 10. Horizontal Divider
+
+---
+
+## Conclusion
+
+Markdown makes documentation simple, readable and professional. It is widely used in GitHub repositories and technical projects.
